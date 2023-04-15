@@ -27,7 +27,7 @@ __Technologies Used:⚙️__
   
 <p align="center"> 
   
-[EDA Data Analysis Python code ](https://github.com/anandaiml19/Exploratory-data-analysis-on-IPL-teams-between-2008-to-2019/blob/main/IPL.ipynb)
+[EDA Data Analysis Python code ](https://github.com/anandaiml19/Exploratory-data-analysis-on-IPL-teams-between-2008-to-2019/blob/main/Spark_Intern_Krishna_Anand_IPL.ipynb)
 
 
 ### Insights
